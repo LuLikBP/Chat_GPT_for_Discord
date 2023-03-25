@@ -4,7 +4,7 @@
 
 
 
-* For full - fledged work , you will need to create a file with the extension in the working folder .env and specify your values for DISCORD_TOKEN and OPEN_AI_TOKEN there
+* For full - fledged work , you will need to create a file with the extension in the working folder .env and specify your values for ```DISCORD_TOKEN``` and ```OPEN_AI_TOKEN``` there
 
 
 
