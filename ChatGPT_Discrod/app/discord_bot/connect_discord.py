@@ -18,5 +18,6 @@ class MyClient(discord.Client):
         
 intents=discord.Intents.default()
 intents = discord.Intents(messages = True, guilds = True)
+
 client=MyClient(intents=intents)
 client.run(discord_token)
