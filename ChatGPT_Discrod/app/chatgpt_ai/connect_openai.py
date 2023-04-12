@@ -12,6 +12,5 @@ def chatgpt_response(prompt):
         temperature=0.75,
         max_tokens=4000
     )
-    #print(response)
     return response ['choices'][0]['text']
 
